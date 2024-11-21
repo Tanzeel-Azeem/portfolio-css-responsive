@@ -329,6 +329,10 @@ textarea {
             margin-top: 60px;
         }
     }
+    .form textarea{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }
 
 @layer base {
