@@ -301,7 +301,7 @@ textarea {
 
     .hero-text {
         margin-top: 100px;
-        margin-left: 0px;
+        margin-left: 10px;
         margin-right: 20px;
     }
 
@@ -330,8 +330,10 @@ textarea {
         }
     }
     .form textarea{
-        margin-left: 20px;
-        margin-right: 20px;
+        /* padding-left: 20px;
+        padding-right: 20px; */
+        width: 80vw;
+      
     }
 }
 
